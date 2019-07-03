@@ -31,6 +31,7 @@ NOTE:
 	B. In all the codes set the Twitter Tagger path accordingly
 	C. infrastructure_20150425.txt.predict is parse file. You have to generate it separately using Twitter parser [Kong et al., EMNLP 2014]
 	D. Demo directory contains some sample files just to demonstrate format of files passing from one module to the next one. To generate summaries kindly apply the methods over original dataset.
+	E. For the path generation module [TwitterSumm], kindly drop a mail.
 
 Dataset: http://www.cnergres.iitkgp.ac.in/subeventsummarizer/dataset.html
 Queries: koustav.rudra@cse.iitkgp.ernet.in  [Path generation module was originally developed by Siddhartha Banerjee in our prior work in Hypertext'16. If you have any queries regarding path generation step kindly forward queries to sbanerjee@ist.psu.edu]
