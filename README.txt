@@ -12,12 +12,8 @@ Step 3: Tag above generated 1000 word summary
 python tag_top_1000.py demo/infrastructure_ICOWTS_20150425.txt demo/infrastructure_icowts_tagged_20150425.txt
 
 Step 4: Generate Path from the tagged data
-	A. Go to TwitterSumm/absummarizer
-	B. In bigram_path_generation.py set the base path
-python bigram_path_generation.py infrastructure_icowts_tagged_20150425.txt
-
-	C. It will generate two files: 1. infrastructure_icowts_tagged_20150425.txt_paths 2. infrastructure_icowts_tagged_20150425.txt_details.txt
-
+	Check the code at https://github.com/krudra/Bigram_Path_Generation
+	
 Step 5: Extract concepts from paths
 python path_concept_extraction.py demo/infrastructure_icowts_tagged_20150425.txt_paths place/nepal_place.txt infrastructure_path_concept_20150425.txt
 
