@@ -30,4 +30,4 @@ NOTE:
 	E. For the path generation module [TwitterSumm], kindly drop a mail.
 
 Dataset: http://www.cnergres.iitkgp.ac.in/subeventsummarizer/dataset.html
-Queries: koustav.rudra@cse.iitkgp.ernet.in  [Path generation module was originally developed by Siddhartha Banerjee in our prior work in Hypertext'16. If you have any queries regarding path generation step kindly forward queries to sbanerjee@ist.psu.edu]
+Queries: rudra@l3s.de  [Path generation module was originally developed by Siddhartha Banerjee in our prior work in Hypertext'16. If you have any queries regarding path generation step kindly forward queries to sbanerjee@ist.psu.edu]
